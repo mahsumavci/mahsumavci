@@ -2,7 +2,7 @@
 #### Mobile Development
 I'm Mahsum from Turkey,and I do content on Development. I really enjoy learning languages and framework.
 
-#Skills: 
+# Skills and Experience: 
 * :iphone: Dart / Flutter 
 *  :computer: JS / HTML / CSS
 
